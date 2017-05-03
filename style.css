@@ -38,6 +38,11 @@
   font-size: 25px;
 }
 
+#movies {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.6em;
+
 body {
   background-color: #EBEBEB;
   font-family: 'Open Sans', sans-serif;
@@ -46,6 +51,13 @@ body {
   font-size: 15px;
   line-height: 1.6em;
 }
+
+.btn-red {
+    background-color: #DD5555;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
 
 h1 {
   color: #DD5555;
