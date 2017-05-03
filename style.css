@@ -39,9 +39,10 @@
 }
 
 #movies {
-    font-weight: 300;
-    font-size: 15px;
-    line-height: 1.6em;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
 
 body {
   background-color: #EBEBEB;
@@ -53,11 +54,12 @@ body {
 }
 
 .btn-red {
-    background-color: #DD5555;
-    color: white;
-    font-weight: 500;
-    padding: 10px;
-    border-radius: 4px;
+  background-color: #DD5555;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
 
 h1 {
   color: #DD5555;
@@ -78,11 +80,11 @@ h1, h2, h3 {
 }
 
 a {
-    color: #ccc;
-    text-decoration: none;
+  color: #ccc;
+  text-decoration: none;
 }
 
-stta:hover {
+a:hover {
   color: black;
 }
 
